@@ -9,3 +9,4 @@
 - [Learning](learning.md)
 - [Writing](writing.md)
 - [Presentations](presenting.md)
+- [Publishing](publishing.md)
