@@ -8,3 +8,4 @@
 - [Computing](computing.md)
 - [Learning](learning.md)
 - [Writing](writing.md)
+- [Presentations](presenting.md)
