@@ -64,6 +64,9 @@ Computing/Applied Math:
 
 Depending on what your research topic is, you might find some of the following textbooks useful to become familiar with.  You should *at least* read the first one in each list that is relevant to your research.  Links are for books with available electronic copies (either publicly available or for on-campus students through BYU's subscriptions).  For books with a star* there is an electronic copy on our shared folder in Box.  The others you can purchase, borrow from the library, or borrow from me.  
 
+#### Communication
+- Trees, maps, and theorems: effective communication for rational minds*, Doumont
+
 #### Aerodynamics
 - Fundamentals of Aerodynamics, Anderson (used in ME 515)
 - [Understanding Aerodynamics](http://onlinelibrary.wiley.com/book/10.1002/9781118454190), McLean
