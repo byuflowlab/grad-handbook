@@ -1,2 +1,6 @@
-# grad-handbook
-A handbook to help graduate students (particularly in the FLOW Lab)
+# FLOW Lab Graduate Handbook
+
+New Students: Read these topics and ask questions.
+Continuing Students: Review these topics each year and contribute to the handbook as appropriate.
+
+- [Productivity](productivity.md)
