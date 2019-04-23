@@ -10,3 +10,6 @@
 - [Writing](writing.md)
 - [Presentations](presenting.md)
 - [Publishing](publishing.md)
+- [OKRs and Semester Reports](semester.md)
+- [Milestones](milestones.md)
+- [Miscellaneous](misc.md)
