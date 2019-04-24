@@ -27,15 +27,13 @@ Here are some classes that tend to be most directly applicable to our lab.  If y
 Foundational to our Lab:
 
 - ME EN 415 - Flight Vehicle Design (if researching aircraft)
+- ME EN 512 - Intermediate Fluid Dynamics
 - ME EN 515 - Aerodynamics
 - ME EN 575 - Optimization Techniques in Engineering
-- IT 515R - Scientific Computing
 
 Fluids:
 
-- ME EN 412 - Applications of Fluid Dynamics 
 - ME EN 426 - Gas Turbine and Jet Engine Design
-- ME EN 512 - Intermediate Fluid Dynamics
 - ME EN 510 - Compressible Fluid Flow
 - ME EN 541 - Computational Fluid Dynamics and Heat Transfer
 - ME EN 613 - Experimental Fluid Mechanics
@@ -51,14 +49,17 @@ Dynamics:
 
 Computing/Applied Math:
 
+- IT 515R - Scientific Computing
+- CS 412 - Linear Programming & Convex Optimization
 - CS 484 - Parallel Processing
 - CS 478 - Introduction to Machine Learning and Data Mining
-- EC EN 671 - Mathematics of Signals and Systems (name is misleading, this is about applied linear algebra, and it is used all over the place in engineering)
+- EC EN 671 - Mathematics of Signals and Systems (name is misleading, this is about applied linear algebra)
 - MATH 510 - Numerical Methods for Linear Algebra
 - MATH 511 - Numerical Methods for Partial Differential Equations
-- EC EN 521 - Introduction to Algorithm Design
-- CS 412 - Linear Programming & Convex Optimization
-- PHSCS 601/602 - Mathematical Physics (highly recommended for PhD students)
+- PHSCS 513R - Theory of Predictive Modeling
+- PHSCS 601/602 - Mathematical Physics
+
+<!-- - EC EN 521 - Introduction to Algorithm Design -->
 
 ## Textbooks
 

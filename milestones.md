@@ -1,6 +1,51 @@
-This page overviews some of the milestones you will need to go through as a graduate student.  I do not provide details on the logistics, those you can find in the graduate handbook, rather I am imparting some advice I frequently repeat to new graduate students.  These are my own views, not all faculty members will view the purposes of these milestones the same way.
+# Milestones
 
-## Course Selection
+This document focuses on deliverables and milestones in two sections: those specific to our lab and those for all grad students in the department.
+
+## Lab Deliverables
+
+Every semester our lab engages in goal setting, creating semester reports, and 1-on-1 performance reviews. 
+
+
+### OKRs
+
+Our lab uses OKRs as our goal setting process.  Read an overview [here](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (there are 10 short pages so you need to click through).  Here are two additional articles that provide [additional guidance](http://eleganthack.com/the-art-of-the-okr/) and describe some [common mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/).  A few other points not shared in those links: 
+- It can be helpful to pair a quantity key result with a quality key result.  For example if you were in a call center and you key result was to make 100 calls, you can easily see how that can be achieved but not lead to a good outcome. But if you instead paired it with a quality result like generate 10 new sales, then you avoid the pitfall of quantity without quality.  (conversely only having the quality goal might not help you stretch to reach the volume you need to achieve the goal).
+- Google distinguishes between committed okrs and aspiration ones.  For a committed OKR, anything less than full completion (score of 1.0) would not be considered a success.  For example if you met a conference deadline or a thesis defense deadline at the 70% level probably that probably isn't what you wanted.  Committed okrs have first priority.
+- It's generally not helpful list things that are going to happen anyway.
+
+We use a google doc, shared across the lab, to enter our OKRs each semester.  You should review your progress on OKRs regularly, including during group meetings and 1-on-1 meetings.
+
+### Semester Reports
+
+Each semester (Sp/Su is one semester) you will be required to submit a final report.  Typically, it should be your closest approximation to the journal paper you are working on.  Submit it as if you were submitting to the journal.  I will review it and provide feedback and an assessment.  A prospectus, section of your thesis/dissertation, or research proposal for your next study is also appropriate. The hope is that through regular feedback (and regular careful transfer of ideas/results to paper) your progression will accelerate.  If you submitted an actual conference paper, journal paper, or prospectus that semester then you have fulfilled this requirement.  If you're just starting then it's likely that your paper will be mostly a literature review and methodology (and maybe some very preliminary results)---just like an AIAA extended abstract.  There is no need to start from a blank slate each semester.  Each submission should be an improvement of your current paper until you submit the actual journal paper.
+
+In addition to a report, most of you should also submit code via a GitHub link (code means more than just source code, but also the documentation, tests, structure, commit history, etc.).  We release many codes as open source, and even those stay internal have current/future lab members as potential users.  Taking the time to package code in a well-thought-out manner makes a huge difference (even if the only user is a future you).  Students rarely receive direct feedback on their code development and thus their development in this area is relatively slow.  Like your report, I will review your code submission and provide feedback.  Note: I said *most* of you because some semesters you may be working on experimental data collection or using commercial tools and thus won't have a code submission.
+
+Below I list some questions I will use to assess your submissions, and which you may want to ask yourself during development.
+
+Report: Is the problem you are trying to solve clearly motivated?  Is it an impactful and important problem?  Does the literature review demonstrate a strong understanding of the field and is your work placed in context?  Do the figures stand alone in clearly presenting a message and are they visually appealing?  Is the organizational structure clear?  Are there spelling/grammatical errors?  Do the primary messages shine through?  Are results sufficiently explained and expounded on?  Is there sufficient V&V to lend confidence in the correctness of the results?  Are the conclusions supported by the data?  Is there a clear explanation of what the results mean in a broader context, what the limitations of the work area, and where future work may best be focused?
+
+Code:  Is the code correct?  How do I know it is correct (i.e., are there good tests)?  Does it conform to good style?  Does the chosen interface make sense?  Is the implementation efficient?  Are there better algorithms that should be used?  Is it clear and do I know how to use it?  Is it documented sufficiently that I could modify it if needed?  Are good version control practices being used?
+
+
+### Performance Review
+
+Each semester we will review your submission, and discuss the following questions in a 1-on-1 meeting:
+
+1. What were your OKRs last semester and how did it go?  
+2. What are your OKRs for this coming semester?
+3. What are your longer term goals (1 year time frame)?
+4. How can I best assist you in achieving these goals?
+5. How can you best help others in the lab achieve their goals?
+6. Any suggestions or ideas for the lab as a whole?
+
+
+## Department Milestones
+
+This page overviews some of the milestones you will need to go through as a graduate student.  I do not provide details on the logistics, those you can find in the department graduate handbook, rather I am imparting some advice I frequently repeat to new graduate students.  These are my own views, not all faculty members will view the purposes of these milestones the same way.
+
+### Course Selection
 
 My main advice is to choose courses you are interested in.  You will learn more and have a more satisfying experiencing if you follow your interests.  You may even find some ideas in an unrelated field that help you with your research.  Of course, you will also need to take classes that are directly related to your research, but presumably you are interested in those anyway (otherwise you picked the wrong research topic).  See [Learning > BYU Courses](learning.md/#byu-courses) for some suggestions.
 
@@ -19,11 +64,11 @@ A typical course registration looks like the following:
 Taking 1 credit every semester/term should put you on track to complete the necessary thesis/dissertation credits.  Some adaptation will be necessary if gone for a summer internship or if you are an international student (don't register during spring/summer)
 
 
-## Committee
+### Committee
 
 Your research will have some aspects that are outside your advisor's areas of expertise.  The purpose of a committee is to provide additional expertise in those areas and to provide broader feedback and direction within the same field.  Select other faculty that would be helpful to you.  You don't need to meet with them regularly to report or anything like that.  They are a resource to help you, so meet with them when they can help you with something.  It's ok if you don't know them.  As long as your topic crosses their expertise in some way, they will be happy to help.  All of us serve on a wide variety of thesis/dissertation committees, in most cases with students that we did not know previously.
 
-## Prospectus
+### Prospectus
 
 You will need to write a prospectus during your graduate work, which is essentially a short proposal.  Writing a proposal is different than writing a scientific paper.  A proposal is intended to be a persuasive argument (rather than a presentation of results and an illumination of their implications).  You need to persuade the reader that the problems you are trying to solve are important, that you've carefully thought through how you will accomplish the work, and that you have the resources and training you need to succeed.  You must have a solid plan, but don't worry that it must be cast in stone.  Like all research projects you should expect that there will be deviations.  The purpose is to help you plan ahead and think about the bigger picture.  Rather than think of this as a one-time document, you should think of it as one step in what should be periodic reflection and replanning to align with what is most impactful and essential.
 
@@ -48,20 +93,20 @@ Other advice related to addressing these questions in your prospectus:
 - Think about contingencies (especially for a PhD).  Your first and second paper should have a pretty solid plan, but papers 3 and 4 may be dependent on what happens in the first two stages.  Have a backup plan in case your results in those early stages don't follow what you hypothesized.
 
 
-## Qualifying Exams (PhD)
+### Qualifying Exams (PhD)
 
 If you take your preparation seriously, this can be one of the more transformative parts of your education.  A PhD student needs to demonstrate impactful and original research (primarily demonstrated through your dissertation), and needs to demonstrate a broad understand of fundamentals (primarily demonstrated through qualifying exams).  In other words, this is a major milestone.  The goal is not to pass the exams.  The goal is to develop a solid understanding of fundamentals.  You should be so well prepared that the exams are a mere formality.  If you are diligent in your preparation you will lay a  foundation of knowledge that you will build on throughout your career.  You will strengthen your ability to learn new things independently---an essential skill in an every changing world.  You will also find great satisfaction in your deepened level of understanding and greater confidence to move forward into new areas of learning.  There will likely never be another opportunity in your life to dedicate your time and focus so completely to subject mastery in this way, so although it is hard be sure to cherish it!  
 
 You need to start your preparation at least one semester prior to taking the exams. Start slow and ramp up.  I strongly recommend studying with a group.  It can be helpful to take turns working problems out on the board in front of the group.  A group provides feedback (essential so that you don't unknowingly learn something incorrectly!), encouragement, and can help you gather a broader set of problems to test your understanding.   During the semester of quals, I recommend taking a lighter course load.  Maybe just one class, unless the two classes are both helpful in your quals preparation.
 
-## Thesis/Dissertation
+### Thesis/Dissertation
 
 For a PhD Dissertation your focus should be on journal papers.  As a rule of thumb, it takes four journal papers in a specific area to develop the requisite expertise.  Once you have the journal papers the heart of your dissertation is complete, and the rest is writing.  Usually the four papers can be put directly into your dissertation as four separate chapters.  Surrounding these papers you will add a few new sections: a unifying introduction, a unifying conclusion, usually a chapter after the introduction that describes fundamentals and background necessary for the rest of the dissertation, and appendices that provide important details like lengthy derivations, model parameters, data sets, etc.  
 
 An MS Thesis is similar, but your target (and expectation) is one journal paper.
 
 
-## Defense
+### Defense
 
 You need to submit your thesis/dissertation to your committee well before the defense (I believe it is a minimum of two weeks, but see the graduate handbook).  If you find things you need to fix after this date, do not send updates to your committee.  Some of them will have started reading, and if only some members of your committee read the updates it will cause confusion and give the impression that your work is not ready.  You will have an opportunity to make changes afterwords. Like journal reviews there will almost certainly be comments and suggestions for improvement.  
 

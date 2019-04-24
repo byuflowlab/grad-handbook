@@ -1,3 +1,5 @@
+# Miscellaneous
+
 - Group meeting is not a status update.  If it was, we would just do it via email.  In our meeting we'd like to dive into the details of things that aren't working, ask lots of questions, and discuss ideas.  This isn't the time for polished or perfect results.  Pictures are more helpful than just words.  You should prepare at least one image (figure, chart, etc.) every time so we can see what's going on.  It may be uncomfortable to share results that you know are "bad", but if you learn to embrace the discomfort we will progress much more effectively.
 
 - Collaboration is a plus.  Don't worry about your territory and whether or not someone else's topic overlaps with your own.  Collaboration often leads to better ideas and better outcomes.  Just focus on doing good work, and it will all work out.
