@@ -27,7 +27,6 @@ Here are some classes that tend to be most directly applicable to our lab.  If y
 Foundational to our Lab:
 
 - ME EN 415 - Flight Vehicle Design (if researching aircraft)
-- ME EN 512 - Intermediate Fluid Dynamics
 - ME EN 515 - Aerodynamics
 - ME EN 575 - Optimization Techniques in Engineering
 
@@ -35,6 +34,7 @@ Fluids:
 
 - ME EN 426 - Gas Turbine and Jet Engine Design
 - ME EN 510 - Compressible Fluid Flow
+- ME EN 512 - Intermediate Fluid Dynamics
 - ME EN 541 - Computational Fluid Dynamics and Heat Transfer
 - ME EN 613 - Experimental Fluid Mechanics
 
@@ -101,14 +101,12 @@ Depending on what your research topic is, you might find some of the following t
 
 
 
-
-
 ## Journal Papers
 
 - You should be regularly reading new journal papers.  This will help you stay current, will improve your writing, and will help you make connections and discover ideas.  Browsing the publications of some of our peer research groups is another good place to start.
-- Not all papers are of equally quality or relevance.  You need to learn how to quickly scan through a paper to discern.  Read the abstract, look through the figures, read the introduction and conclusion.  If it looks like a high-quality, relevant paper save it.  You should keep a reference list of papers with a few bullet points on the main ideas.  In our lab we use BibDesk to manage references.
+- Not all papers are of equal quality or relevance.  You need to learn how to quickly scan through a paper to discern.  You also don't need to read every paper in depth.  Start by reading the abstract, looking through the figures, and reading the introduction and conclusion.  For core papers to your area you will need to read in greater depth.  You should keep a reference list of papers with a few bullet points on the main ideas.  In our lab we use BibDesk to manage references.
 - Start your literature reviews early.  Begin with outlines and fill in details later.
 
 ## Research
 
-An effective way to get started in research is to find a good paper in your area of interest (ask those who work in that area for recommendations), and reproduce the results in the paper.  By the time you do that you'll have a good understanding of how the methods work, and along the way you'll likely have ideas for new directions or ways you can build on that work.
+An effective way to get started in research is to find a good paper in your area of interest (ask those who work in that area for recommendations), and reproduce the results in the paper.  This process will help you get up to speed in an area of interest and along the way you'll likely have ideas for new directions or ways you can build on that work.
