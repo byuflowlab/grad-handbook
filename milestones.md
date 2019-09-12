@@ -101,14 +101,24 @@ You need to start your preparation at least one semester prior to taking the exa
 
 ### Thesis/Dissertation
 
-For a PhD Dissertation your focus should be on journal papers.  As a rule of thumb, it takes four journal papers in a specific area to develop the requisite expertise.  Once you have the journal papers the heart of your dissertation is complete, and the rest is writing.  Usually the four papers can be put directly into your dissertation as four separate chapters.  Surrounding these papers you will add a few new sections: a unifying introduction, a unifying conclusion, usually a chapter after the introduction that describes fundamentals and background necessary for the rest of the dissertation, and appendices that provide important details like lengthy derivations, model parameters, data sets, etc.  
+For a PhD Dissertation your focus should be on journal papers.  As a rule of thumb, it takes four journal papers in a specific area to develop the requisite expertise.  These four papers form the core of the dissertation, and often are inserted directly as four chapters (with annotations for where they were published).  Alternatively, some people like to pull out common intro/conclusion content from the four papers.
 
-An MS Thesis is similar, but your target (and expectation) is one journal paper.
+Surrounding these papers you will add a few new sections: 1) a unifying introduction, 2) usually a chapter after the introduction that describes fundamentals and background necessary for the rest of the dissertation, 3) a unifying conclusion, and 4) appendices that provide important details like lengthy derivations, model parameters, data sets, etc.
+
+These new sections in the dissertation are different from their journal counterparts.  For 1), a journal paper may only contain a few sentences, because the audience is subject matter experts in the journal's topic.  However, for a dissertation the audience is general and you should assume they come in knowing nothing about your topic.  Motivations, themes, key concepts, etc., need to be described. 
+
+For 2), a journal is space limited so for well-known methods we don't reiterate all the details, but rather provide just enough info that one could still reasonably reproduce.  In a dissertation one generally goes into full and complete detail on most everything.  A good rule of thumb is that the dissertation should stand alone (i.e., one shouldn’t have to refer to other references to figure out derivations or reproduce your results).  You’ll still have references of course (lots), but anything key from those references should be in the document.  This means that some of the background you add isn't necessarily novel, but like a textbook, is repackaged in a way that adds clarity and connection to your topic.  
+
+For 3), the conclusion should be comprehensive across all the papers, and should clearly highlight your unique contributions to the field.
+
+You should have all necessary detail to reproduce your work.  Some of that info is too lengthy or not appropriate in the main text, and that is what the appendix is for.  For big data sets, or code, hyperlinked archived data sources are usually preferable to typed out versions. 
+
+An MS Thesis is similar to described above, but with an expectation of one journal paper.
 
 
 ### Defense
 
-You need to submit your thesis/dissertation to your committee well before the defense (I believe it is a minimum of two weeks, but see the graduate handbook).  If you find things you need to fix after this date, do not send updates to your committee.  Some of them will have started reading, and if only some members of your committee read the updates it will cause confusion and give the impression that your work is not ready.  You will have an opportunity to make changes afterwords. Like journal reviews there will almost certainly be comments and suggestions for improvement.  
+You need to submit your thesis/dissertation to your committee well before the defense (I believe it is a minimum of two weeks, but see the graduate handbook), and it needs to come to me for review 2 weeks before that.  If you find things you need to fix after this date, do not send updates to your committee.  Some of them will have started reading, and if only some members of your committee read the updates it will cause confusion and give the impression that your work is not ready.  You will have an opportunity to make changes afterwords. Like journal reviews there will almost certainly be comments and suggestions for improvement.  
 
 I suggest preparing a handout with your slides printed on them (4 per page, double sided), one for each member of your committee.  This will help your committee follow along and note their questions next to the slides.
 
