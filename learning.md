@@ -108,3 +108,7 @@ Depending on what your research topic is, you might find some of the following t
 - You should be regularly reading new journal papers.  This will help you stay current, will improve your writing, and will help you make connections and discover ideas.  Browsing the publications of some of our peer research groups is another good place to start.
 - Not all papers are of equally quality or relevance.  You need to learn how to quickly scan through a paper to discern.  Read the abstract, look through the figures, read the introduction and conclusion.  If it looks like a high-quality, relevant paper save it.  You should keep a reference list of papers with a few bullet points on the main ideas.  In our lab we use BibDesk to manage references.
 - Start your literature reviews early.  Begin with outlines and fill in details later.
+
+## Research
+
+An effective way to get started in research is to find a good paper in your area of interest (ask those who work in that area for recommendations), and reproduce the results in the paper.  By the time you do that you'll have a good understanding of how the methods work, and along the way you'll likely have ideas for new directions or ways you can build on that work.
