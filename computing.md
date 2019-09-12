@@ -1,14 +1,17 @@
 # Scientific Computing
 
+Guidance for setting up your mac, specific to our lab, is avilable [here](https://github.com/byuflowlab/flowlab-notebook/blob/master/tutorials/macsetup.md).  You should also go through our tutorial on getting setup for [LaTeX](https://github.com/byuflowlab/flowlab-notebook/blob/master/tutorials/latex.md).
+
 ## Document as You Go
 
-- Use a lab notebook.  This can be a hard bound book or a digital notebook (e.g., [Jupyter](http://jupyter.org)).  
+- Use a lab notebook.  I recommend a digital notebook.  [Jupyter](http://jupyter.org) is one good option, but there are others.  I used hard bound notebooks for years, but now wish I hadn't.  It's really hard to find past notes, derivations, etc. once you have several notebooks. Digital copies are so much easier to search, tag, and organize.
 - **Create theory documentation (in addition to usage documentation) for any code you write**.  Any derivation you do in your notebook that is used in your code, should be transferred to an electronic format attached with the code.  It is very common to revisit your code later, or for someone else to want to build on it.  If the theory isn't carefully documented it's going to be very hard to remember what you did or for someone else to try to figure it out.  A few minutes now will save you hours later (both for modifying code later, and for writing the methodology in your papers).  Here are some suggested formats:
     - [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl): For Julia this should be your default.  It is markdown-based and easy to use.  You can host the docs using [Github Pages](https://pages.github.com).  If on Python [MkDocs](https://www.mkdocs.org) is a good option.
     - README: if the module is very simple and only requires a short amount of documentation (e.g., a wrapper module) a README file will suffice or a README and a couple of markdown files.  (Even with other documentation options you should still always have a README to provide some a basic explanation of what the module does and how to get started).
     - LaTeX PDF: Extensive theory is probably best documented separately in LaTeX because you can cross-reference equations, references, etc.  You can then refer to it in your main documentation.
 - Use Docstrings and learn what the expected format is for your programming language.
 - Comment your code.  Refer to where you found equations/values (e.g., reference your documentation or a textbook/paper).
+- Beginners often have one comment line per 10 lines of code, excellent programmers invert that ratio (perhaps a bit exaggerated, but good docstrings should take up a significant portion of your code).  
 
 ## Version Control and Backup
 
@@ -27,7 +30,7 @@
 - Use descriptive variable names.
 - If you find yourself writing a very similar piece of code more than once, you should refactor the code to create one function used in multiple places.  Having duplicate code opens up additional opportunities for bugs with version mismatches.
 - Don't try to write a large program all at once.  Break it down into small pieces. For each small piece be sure to thoroughly verify and validate (V&V) it before moving on.  In this way you can build up large complex codes.
-- Take IT 515R Scientific Computing.
+- IT 515R Scientific Computing may be helpful to you.
 
 ## Project Management
 
