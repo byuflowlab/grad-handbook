@@ -124,4 +124,8 @@ I suggest preparing a handout with your slides printed on them (4 per page, doub
 
 The notes on presentations are applicable to your defense.  The only difference is a little more emphasis on clearly highlighting your contributions.
 
-Relax!  I wouldn't let you defend if I didn't think you were ready.
+### Post-defense
+
+Many students underestimate the time required to conduct a proper job search.  For a PhD student a job search might span two semesters (less for an MS student).  Visits typically include presenting at a seminar and interviewing with people across multiple levels for a full day or two.  Preparation is needed to deliver an effective presentation, to learn what you can about the organization/people beforehand, and to prepare relevant questions.  The preparation, travel, and interviewing can take a better part of a week, and you'll likely do this more than once.
+
+Knowledge/code transition is important.  You'll need to plan adequate time to document, train other students, integrate code with other lab code so that it can be used by others.
