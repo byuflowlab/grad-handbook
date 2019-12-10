@@ -6,15 +6,21 @@ This document focuses on deliverables and milestones in two sections: those spec
 
 Every semester our lab engages in goal setting, creating semester reports, and 1-on-1 performance reviews. 
 
+### Goal Setting and Planning
 
-### OKRs
+You would never build a house without a set of blueprints.  Along the way you may (probably will) make some changes, but it is much easier to make changes on existing blueprints as compared to making changes with only a vague plan.  There is no one right approach to goal setting, but there are some important common principles including long-term goals, short-term goals, a plan between the two, and accountability.  All elements are essential.  In the following I will use an analogy of learning in a classroom environment, since that is something we are all familar with and the semester is a natural period for our goal setting.  
 
-Our lab uses OKRs as our goal setting process.  Read an overview [here](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (there are 10 short pages so you need to click through).  Here are two additional articles that provide [additional guidance](http://eleganthack.com/the-art-of-the-okr/) and describe some [common mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/).  A few other points not shared in those links: 
+1. Longer-term goals (semester goals).  If you don't know where you want to end up then all the daily plannning will be aimless.  For our classroom analogy these would be course outcomes.  You need to step back and think about your research and focus on what is essential and impactful.  There are a lot of good things one could do, but you need to make sure you are focused on what is best and let nonessentials drop away.  This requires careful thinking and some time away from the thick of things.  For our lab I recommend using OKRs.  You may use a different format if you prefer with similar principles.  We have a google doc, shared across the lab, to enter our OKRs each semester.  Read an overview [here](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) (there are 10 short pages so you need to click through).  Here are two additional articles that provide [additional guidance](http://eleganthack.com/the-art-of-the-okr/) and describe some [common mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/).  A few other points not shared in those links: 
 - It can be helpful to pair a quantity key result with a quality key result.  For example if you were in a call center and you key result was to make 100 calls, you can easily see how that can be achieved but not lead to a good outcome. But if you instead paired it with a quality result like generate 10 new sales, then you avoid the pitfall of quantity without quality.  (conversely only having the quality goal might not help you stretch to reach the volume you need to achieve the goal).
-- It's generally not helpful list things that are going to happen anyway.
+- It's generally not helpful to list things that are going to happen anyway.
 - Remember that key results are *results*, not the habits or inputs that might get you there (these are worthwhile to track to but not the purpose of OKRs), but the outcomes you want to achieve.
 
-We use a google doc, shared across the lab, to enter our OKRs each semester.  You should review your progress on OKRs regularly, including during group meetings and 1-on-1 meetings.
+2. A plan.  This is the bridge from your daily/weekly goals to your semester goals.  Without this plan it is hard to know if your weekly/daily goals are on track (until you get close to the end and panic-mode sets in).  In our classroom analogy this is the syllabus where the lectures, homework, and exams are placed on a calendar.  This level of planning forces you to grapple with what needs to happen, and what needs to be dropped.  You should describe your week to week activities and set a few key milestones (like exams in the syllabus analogy).  These key milestones will help you track towards your semester goals.  You don't need to go into great detail, just like a syllabus doesn't go into details of an individual lecture, but do need to have a feasible plan.  Format is up to you.  Some people like Gantt charts, simple lists, calendars, etc.
+
+3. Short-term goals.  Even the best-laid plans require constant attention and revision.  Without executation in the short term a great plan is just wishful thinking.  In our classroom analogy this is the detailed description of the homework assignment, or the lecture slides.  At least weekly (or biweekly if you prefer) you should be reviewing your plan and upcoming milestones to help you plan your weekly goals.  Then each day you will be able to plan using your weekly goals.  You will likely need to make revisions to your semester plan from time to time.  You should do so with your big picture goals in mind.
+
+4. Accountability.  It's hard to make progress without some accountability.  In the classroom analogy if you didn't have intermediate deadlines to turn in homework and other assignments, it is unlikely you would achieve the learning outcomes you set out to achieve.  Find what works for you, but at a minimum you should: 1) report on weekly goals each week at lab meeting, and 2) discuss the past semester goals and the upcoming goals during our end-of-semester meetings.  During lab meeting report: what were your goals and how did they go, what are your next week's goals, what is the next upcoming milestone and what is your state of progress towards it.  Don't worry if you're not always achieving your weekly goals.  In fact if you always are then they may not be ambitious enough.  Conversely, if you are consistently not meeting your goals you may need to rethink your plan.  By regularly reporting these patterns and your progress will become clearer to you.
+
 
 ### Semester Reports
 
@@ -39,7 +45,6 @@ Each semester we will review your submission, and discuss the following question
 4. How can I best assist you in achieving these goals?
 5. How can you best help others in the lab achieve their goals?
 6. Any suggestions or ideas for the lab as a whole?
-
 
 ## Department Milestones
 
