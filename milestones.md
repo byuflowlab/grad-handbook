@@ -6,7 +6,7 @@ This document focuses on deliverables and milestones in two sections: those spec
 
 Every semester our lab engages in goal setting, creating semester reports, and 1-on-1 performance reviews. 
 
-### Goal Setting and Planning
+### Goals and Planning
 
 You would never build a house without a set of blueprints.  Along the way you may (probably will) make some changes, but it is much easier to make changes on existing blueprints as compared to making changes with only a vague plan.  There is no one right approach to goal setting, but there are some important common principles including long-term goals, short-term goals, a plan between the two, and accountability.  All elements are essential.  In the following I will use an analogy of learning in a classroom environment, since that is something we are all familar with and the semester is a natural period for our goal setting.  
 
